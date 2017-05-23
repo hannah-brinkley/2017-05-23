@@ -6,3 +6,4 @@ I love "We bare bears".
 
 I added the output folder wtih a ` .gitkeep`  file
 
+Text editor on github

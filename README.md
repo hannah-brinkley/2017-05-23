@@ -10,3 +10,6 @@ I added the output folder wtih a ` .gitkeep`  file
 Text editor on github
 
 A non-conflicting change from my computer.
+
+
+EDIT from Daniel

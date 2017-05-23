@@ -4,3 +4,5 @@ Another change to the readme file
 The third change
 I love "We bare bears".
 
+I added the output folder wtih a ` .gitkeep`  file
+
